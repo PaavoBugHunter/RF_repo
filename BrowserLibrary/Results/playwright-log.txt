@@ -1,0 +1,15 @@
+{"level":30,"time":"2022-08-19T08:26:18.682Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Listening on 60202"}
+{"level":30,"time":"2022-08-19T08:26:18.891Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.892Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.894Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.894Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.897Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.897Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.900Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.900Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.902Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.902Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.905Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.905Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-08-19T08:26:18.924Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-08-19T08:26:18.924Z","pid":4952,"hostname":"LAPTOP-Q63G9DG3","msg":"End of node method closeAllBrowsers"}

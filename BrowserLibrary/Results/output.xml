@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.4 on win32)" generated="20220819 11:26:18.050" rpa="false" schemaversion="3">
+<suite id="s1" name="Python class import" source="C:\TestAutomation\RobotScripts\BrowserLibrary\tests\Python_class_import.robot">
+<test id="s1-t1" name="Count the sum" line="8">
+<kw name="Sum Of Values" library="Python_class">
+<var>${sum_value}</var>
+<msg timestamp="20220819 11:26:18.902" level="INFO">${sum_value} = 3</msg>
+<status status="PASS" starttime="20220819 11:26:18.902" endtime="20220819 11:26:18.902"/>
+</kw>
+<kw name="Should Be Equal" library="BuiltIn">
+<arg>${sum_value}</arg>
+<arg>${3}</arg>
+<doc>Fails if the given objects are unequal.</doc>
+<status status="PASS" starttime="20220819 11:26:18.902" endtime="20220819 11:26:18.902"/>
+</kw>
+<status status="PASS" starttime="20220819 11:26:18.887" endtime="20220819 11:26:18.902"/>
+</test>
+<test id="s1-t2" name="Sub by keyword" line="12">
+<kw name="My class_keyword" library="Python_class">
+<var>${sub_keyword}</var>
+<msg timestamp="20220819 11:26:18.902" level="INFO">${sub_keyword} = -1</msg>
+<status status="PASS" starttime="20220819 11:26:18.902" endtime="20220819 11:26:18.902"/>
+</kw>
+<kw name="Should Be Equal" library="BuiltIn">
+<arg>${sub_keyword}</arg>
+<arg>${-1}</arg>
+<doc>Fails if the given objects are unequal.</doc>
+<status status="PASS" starttime="20220819 11:26:18.902" endtime="20220819 11:26:18.902"/>
+</kw>
+<status status="PASS" starttime="20220819 11:26:18.902" endtime="20220819 11:26:18.902"/>
+</test>
+<status status="PASS" starttime="20220819 11:26:18.050" endtime="20220819 11:26:18.902"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="2" fail="0" skip="0" id="s1" name="Python class import">Python class import</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
